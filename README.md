@@ -47,6 +47,11 @@ You should have working pipeline that automatically builds your project by now.
 - Go to Settings > CI / CD
 - Expand the General pipelines settings section
 - Scroll down to Pipeline status and/or Coverage report
+
+  [![pipeline status](https://gitlab.com/sqr-inno/s23/s-23-lab-1-introduction-to-the-quality-gates-ks-ev/badges/main/pipeline.svg)](https://gitlab.com/sqr-inno/s23/s-23-lab-1-introduction-to-the-quality-gates-ks-ev/-/commits/main)  
+
+  [![coverage report](https://gitlab.com/sqr-inno/s23/s-23-lab-1-introduction-to-the-quality-gates-ks-ev/badges/main/coverage.svg)](https://gitlab.com/sqr-inno/s23/s-23-lab-1-introduction-to-the-quality-gates-ks-ev/-/commits/main)  
+
 - Select your branch
 - Copy link for MD and paste it to the `Readme.md`
 - You shoud see a lable `pipeline|{CI status}`
