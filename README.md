@@ -59,7 +59,7 @@ You should have working pipeline that automatically builds your project by now.
 
 ## Homework
 
-As a homework you will need to add autodeploy to your project. I would recommend to use something like [AWS](https://console.aws.amazon.com), [Heroku](https://heroku.com) or [Digital Ocean](https://www.digitalocean.com/) (Digital Ocean and some other providers are free if you have [GitHub](https://education.github.com/students) license for students).  To check if server is running open this link: `http://<your-server>:8080/hello/`
+As a homework I added autodeploy to my project. I used [Heroku](https://heroku.com) for this purpose.  You can check the running project by opening this link: `https://sqr-lab-ksen.herokuapp.com`
 
 **Lab is counted as done, if you have your app is running on server, and pipelines are passing.**
 
